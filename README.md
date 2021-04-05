@@ -1,2 +1,4 @@
-# set up git for this
+# harvard clan on codewars ruby
+
+
 
